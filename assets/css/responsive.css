@@ -2,6 +2,7 @@
 @media (max-width: 1023px) {
     .btn {
         padding: 13px 25px;
+        /* Đã thêm */
         font-size: 16px;
     }
 
